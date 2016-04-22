@@ -12,7 +12,7 @@ models:
     Trade model bases.
 
 abm:
-    Agent Based Modeling Guide.
+    Agent Based Modeling and Mathematical Modeling Guide.
 
 broker:
     This is a agent taking actions in trade based on our models.
