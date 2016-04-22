@@ -15,4 +15,4 @@ abm:
     Agent Based Modeling and Mathematical Modeling Guide.
 
 broker:
-    This is a agent taking actions in trade based on our models.
+    This is an agent taking actions in trade based on our models.
