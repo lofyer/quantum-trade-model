@@ -1,0 +1,18 @@
+This is a platform based on trade-model-01.
+
+Architechture:
+
+elements:
+    Collections of history and trend information.
+
+technology:
+    Technology used in this platform.
+
+models:
+    Trade model bases.
+
+abm:
+    Agent Based Modeling Guide.
+
+broker:
+    This is a agent taking actions in trade based on our models.
