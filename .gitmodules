@@ -1,0 +1,3 @@
+[submodule "external/trade-model-01"]
+	path = external/trade-model-01
+	url = https://github.com/lofyer/trade-model-01.git
