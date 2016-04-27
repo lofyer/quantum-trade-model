@@ -3,13 +3,13 @@ This is a platform based on trade-model-01.
 Architechture:
 
 elements:
-    Collections of history and trend information.
+    World Knowledge Model - Collections of history and trend information.
 
 technology:
-    Technology used in this platform.
+    Technologies & Algorithms used in this platform.
 
 models:
-    Trade model bases.
+    Model library.
 
 abm:
     Interactive UI of Agent Based Modeling and Mathematical Modeling Guide.
